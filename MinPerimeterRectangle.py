@@ -1,3 +1,4 @@
+import math
 #Time complexity O(sqrt(N)
 def solution(N):
     minParaimeter = 2**31-1
